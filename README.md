@@ -2,7 +2,7 @@
 
 **Python Version:** 3.8+  
 **License:** MIT  
-**Model Size:** ≤ 1GB  
+**Model Size:** ≤ 15MB  
 **Execution:** CPU-only  
 **Internet Requirement:** None (fully offline)
 
