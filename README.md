@@ -49,5 +49,5 @@ It uses feature-based supervised learning and works completely offline without r
 
 - 📴 No internet connection required  
 - ⚡ Lightweight and fast inference  
-- 🛠️ Easy to adapt to other document styles  
+- 🛠️ Easy to adapt to other document styles and work on multilingual documents 
 - 📄 Output in clean JSON format for downstream use
